@@ -1,0 +1,16 @@
+body{
+  background-color: black;
+}
+section{
+  background-color: #888;
+  width: 1000px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+div{
+  background-color:#fff;
+  width:400px;
+  height: inherit;
+  margin: 0 auto;
+}
