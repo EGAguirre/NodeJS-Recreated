@@ -14,3 +14,13 @@ a{
   height: inherit;
   margin: 0 auto;
 }
+
+header img{
+   width:20%;
+   height:20%;
+   margin: 0 150px;
+}
+
+img{
+
+}

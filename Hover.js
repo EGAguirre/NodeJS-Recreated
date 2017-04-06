@@ -1,3 +1,2 @@
 (function(){
   const doc = document;
-})
