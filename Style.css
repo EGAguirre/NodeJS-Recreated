@@ -15,12 +15,20 @@ a{
   margin: 0 auto;
 }
 
-header img{
-   width:20%;
-   height:20%;
-   margin: 0 150px;
+header div{
+   width:35%;
+   height:inherit;
+   margin: 0 auto;
 }
 
-img{
+header div img{
+   width:inherit;
+   height: auto;
+}
+
+article img{
+  width:50%
+  height:20%;
+  margin: 0 150px;
 
 }
